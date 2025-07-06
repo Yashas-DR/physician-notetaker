@@ -101,7 +101,7 @@ soap_note = notetaker.generate_soap_note(transcript)
 ## 🖼️ Screenshot
 
 
-![Web Interface](./medical_summmary.png)
+![Web Interface](./medical_summary.png)
 
 ### Sentiment & Intent Analysis
 ```json
