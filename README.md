@@ -42,7 +42,7 @@ pip install nltk flask pandas numpy
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Yashas-DR/physician-notetaker.git
 cd physician-notetaker-nlp
 
 # Install dependencies
