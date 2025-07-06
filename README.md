@@ -82,7 +82,10 @@ soap_note = notetaker.generate_soap_note(transcript)
 ```
 
 ## 📊 Sample Output
+## 🖼️ Screenshot
 
+
+![Web Interface](./interface.png)
 ### Medical Summary
 ```json
 {
@@ -95,6 +98,10 @@ soap_note = notetaker.generate_soap_note(transcript)
   "Key_Phrases": ["ankle", "football", "injury", "recovery", "treatment"]
 }
 ```
+## 🖼️ Screenshot
+
+
+![Web Interface](./medical summmary.png)
 
 ### Sentiment & Intent Analysis
 ```json
@@ -111,7 +118,10 @@ soap_note = notetaker.generate_soap_note(transcript)
   }
 ]
 ```
+## 🖼️ Screenshot
 
+
+![Web Interface](./sentiment analysis.png)
 ### SOAP Note
 ```json
 {
@@ -133,7 +143,10 @@ soap_note = notetaker.generate_soap_note(transcript)
   }
 }
 ```
+## 🖼️ Screenshot
 
+
+![Web Interface](./soap note.png)
 ## 🔗 API Endpoints
 
 ### Medical Summary
