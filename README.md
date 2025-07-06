@@ -101,7 +101,7 @@ soap_note = notetaker.generate_soap_note(transcript)
 ## 🖼️ Screenshot
 
 
-![Web Interface](./medical summmary.png)
+![Web Interface](./medical_summmary.png)
 
 ### Sentiment & Intent Analysis
 ```json
@@ -121,7 +121,7 @@ soap_note = notetaker.generate_soap_note(transcript)
 ## 🖼️ Screenshot
 
 
-![Web Interface](./sentiment analysis.png)
+![Web Interface](./sentiment_analysis.png)
 ### SOAP Note
 ```json
 {
@@ -146,7 +146,7 @@ soap_note = notetaker.generate_soap_note(transcript)
 ## 🖼️ Screenshot
 
 
-![Web Interface](./soap note.png)
+![Web Interface](./soap_note.png)
 ## 🔗 API Endpoints
 
 ### Medical Summary
